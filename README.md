@@ -1,4 +1,4 @@
-# Todo List Web App
+# Image Colour Palette Web App
 
 Basic Colour Photo Palette Web App. Developed for  <A href="https://www.udemy.com/course/100-days-of-code/">100 days of code on Udemey.</A>
 
