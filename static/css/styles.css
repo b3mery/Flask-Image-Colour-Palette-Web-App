@@ -1,0 +1,13 @@
+.colour-results {
+    width: 60vh;
+    padding-top: 5vh;
+}
+.form-wrap {
+    padding-top: 5vh;
+}
+
+.colours tr { 
+    height: 3rem; 
+    text-align: center;
+    font-size: 2rem;
+}
